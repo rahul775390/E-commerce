@@ -1,0 +1,15 @@
+body {
+  padding-top: 50px;
+}
+
+h1, h2 {
+  margin-bottom: 20px;
+}
+
+.invalid-feedback {
+  display: none;
+}
+
+.is-invalid .invalid-feedback {
+  display: block;
+}
