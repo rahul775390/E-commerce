@@ -11,6 +11,44 @@
 - `src/main/resources/`: Configuration files
 - `test/java/com/example/ecommerce/`: Test files
 
+E-commerce/
+├── css/
+│   └── styles.css
+├── js/
+│   └── scripts.js
+├── src/
+│   ├── main/
+│   │   ├── java/
+│   │   │   └── com/
+│   │   │       └── example/
+│   │   │           └── ecommerce/
+│   │   │               ├── controller/
+│   │   │               │   └── UserController.java
+│   │   │               ├── model/
+│   │   │               │   └── User.java
+│   │   │               ├── repository/
+│   │   │               │   └── UserRepository.java
+│   │   │               ├── service/
+│   │   │               │   └── UserService.java
+│   │   │               └── EcommerceApplication.java
+│   ├── resources/
+│   │   └── application.properties
+├── test/
+│   ├── java/
+│   │   └── com/
+│   │       └── example/
+│   │           └── ecommerce/
+│   │               ├── controller/
+│   │               └── service/
+│   │                   └── UserServiceTest.java
+├── index.html
+├── login.html
+├── register.html
+├── profile.html
+├── README.md
+└── pom.xml
+
+
 ## Features
 - Responsive design using Bootstrap
 - Form validation and interactivity with JavaScript
