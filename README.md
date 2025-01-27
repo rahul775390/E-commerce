@@ -11,6 +11,8 @@
 - `src/main/resources/`: Configuration files
 - `test/java/com/example/ecommerce/`: Test files
 
+## Directory Structure
+```plaintext
 E-commerce/
 ├── css/
 │   └── styles.css
@@ -48,7 +50,9 @@ E-commerce/
 ├── README.md
 └── pom.xml
 
+```
 
+---
 
 ## Features
 - Responsive design using Bootstrap
