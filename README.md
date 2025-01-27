@@ -7,15 +7,24 @@
 - `profile.html`: User profile page
 - `css/styles.css`: Custom CSS styles
 - `js/scripts.js`: JavaScript for form validation
+- `src/main/java/com/example/ecommerce/`: Java source files
+- `src/main/resources/`: Configuration files
+- `test/java/com/example/ecommerce/`: Test files
 
 ## Features
 - Responsive design using Bootstrap
 - Form validation and interactivity with JavaScript
-- User-friendly interface for e-commerce functionalities
+- User registration and profile management
+- Error handling and robust application flow
 
 ## How to Run
-1. Open the `index.html` file in your web browser.
-2. Navigate to other pages using the links provided.
+1. Clone the repository.
+2. Navigate to the project directory.
+3. Run `mvn spring-boot:run` to start the application.
+4. Open `http://localhost:8080` in your web browser.
+
+## Testing
+- Run `mvn test` to execute unit tests.
 
 ## Future Enhancements
 - Add product listing and shopping cart functionalities
