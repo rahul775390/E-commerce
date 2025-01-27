@@ -49,6 +49,7 @@ E-commerce/
 └── pom.xml
 
 
+
 ## Features
 - Responsive design using Bootstrap
 - Form validation and interactivity with JavaScript
